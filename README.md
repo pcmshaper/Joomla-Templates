@@ -79,15 +79,15 @@ Gallerite is an incredibly unique and highly interactive Responsive Joomla templ
 
 PS Boxite is a creative, professional, clean designed and developed Joomla template...
 
-[Demo] (http://demo.pcmshaper.com/joomla/?template=flatite)
- | [Download] (http://www.pcmshaper.com/joomla-templates/flatite)
+[Demo] (http://demo.pcmshaper.com/joomla/?template=boxite)
+ | [Download] (http://www.pcmshaper.com/joomla-templates/boxite)
         
 # Flatite - Responsive Creative Joomla Template
 
 PS Flatite is a Modern and Creative premium Joomla Template...
 
-[Demo] (http://demo.pcmshaper.com/joomla/?template=boxite)
- | [Download] (http://www.pcmshaper.com/joomla-templates/boxite)
+[Demo] (http://demo.pcmshaper.com/joomla/?template=flatite)
+ | [Download] (http://www.pcmshaper.com/joomla-templates/flatite)
          
 # Hexite - Responsive Creative Joomla Template
 
