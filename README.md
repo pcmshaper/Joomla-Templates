@@ -1,3 +1,10 @@
+# Jangite - Free Business Joomla Template
+
+Jangite is a modern and perfect business free joomla template, it’s easily suit to any type of business...
+
+[Demo] (http://joomla.pcmshaper.com/?template=jangite)
+ | [Download] (https://pcmshaper.com/joomla-templates/jangite)
+
 # Bloggite - Responsive Business Joomla Template
 
 Bloggite is a responsive Joomla! 3 business template built-in with powerful helix-ii framework...
@@ -158,3 +165,4 @@ PS Acrostia is the perfect one page responsive free Joomla template for corporat
 
 [Demo] (http://joomla.pcmshaper.com/?template=acrostia)
  | [Download] (https://pcmshaper.com/joomla-templates/acrostia)
+ 
