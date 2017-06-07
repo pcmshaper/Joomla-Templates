@@ -7,6 +7,8 @@ Jangite is a modern and perfect business free joomla template, it’s easily sui
 
 # Bloggite - Responsive Business Joomla Template
 
+[![Join the chat at https://gitter.im/pcmshaper/Joomla-Templates](https://badges.gitter.im/pcmshaper/Joomla-Templates.svg)](https://gitter.im/pcmshaper/Joomla-Templates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Bloggite is a responsive Joomla! 3 business template built-in with powerful helix-ii framework...
 
 [Demo] (http://joomla.pcmshaper.com/?template=bloggite)
